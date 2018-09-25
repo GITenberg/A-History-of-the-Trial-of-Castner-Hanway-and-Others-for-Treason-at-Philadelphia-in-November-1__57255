@@ -1,0 +1,26 @@
+_repo: A-History-of-the-Trial-of-Castner-Hanway-and-Others-for-Treason-at-Philadelphia-in-November-1__57255
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Member of the Philadephia Bar
+    gutenberg_agent_id: '49276'
+    url: http://www.gutenberg.org/2009/agents/49276
+description: ''
+gutenberg_issued: '2018-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Riots -- Pennsylvania -- Christiana'
+- !lcsh 'Trials (Treason) -- Pennsylvania -- Philadelphia'
+- !lcsh 'United States -- Fugitive slave law (1850)'
+- GITenberg
+title: 'A History of the Trial of Castner Hanway and Others, for Treason, at Philadelphia
+  in November, 1851
+
+  With an Introduction upon the History of the Slave Question'
+url: http://www.gutenberg.org/ebooks/57255
